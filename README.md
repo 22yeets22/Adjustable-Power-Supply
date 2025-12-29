@@ -1,5 +1,6 @@
 # Adjustable-Power-Supply
 A cheap 500W adjustable power supply.
+<img width="700" alt="CAD" src="https://github.com/user-attachments/assets/b284a7af-d3bf-496f-a0bf-a260561bea56" />
 
 
 ## Parts List
