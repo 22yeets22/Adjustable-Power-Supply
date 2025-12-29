@@ -3,6 +3,7 @@ A cheap 500W adjustable power supply.
 
 <img width="700" alt="CAD" src="CAD.png" />
 
+<img width="700" alt="Wiring Diagram" src="wiringdiagram.png" />
 
 ## Parts List
 ### Input
