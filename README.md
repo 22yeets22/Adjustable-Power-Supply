@@ -1,5 +1,7 @@
 # Adjustable-Power-Supply
-A cheap 500W adjustable power supply.
+A cheap 500W adjustable power supply. 2.5-38V, 1-15A
+
+I started this project to make electronics experimentation easier, because getting precise voltage and current levels is a pain if you don't have an adjustable psu.
 
 <img width="700" alt="CAD" src="CAD.png" />
 
