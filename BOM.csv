@@ -1,13 +1,22 @@
 Category,Quantity,Part Name,Type,Unit Price (USD),Link
-Input,1,Power Supply Cable 3-Prong 1.2m,USA,3.49,https://www.aliexpress.com/item/3256807060355465.html
-Input,1,IEC320 C14/C13 Panel Socket,Type 4 / China Mainland,1.33,https://www.aliexpress.com/item/3256808473935736.html
-Input,1,KCD1 Rocker Switch SPST,15x20mm / 5PCS,2.39,https://www.aliexpress.us/item/3256808591861621.html
-Input,1,48V 10A Switching Power Supply 480W,N/A,26.99,https://www.amazon.com/REALSUN-Universal-Switching-Converter-Transformer/dp/B096VJMQFM/
-Cooling,2,60mm 12V DC Cooling Fan,6015 / 12V,2.61,https://www.aliexpress.com/item/3256806120222119.html
-Cooling,2,Thermal Switch KSD-01F,40C / Normally Open,1.33,https://www.aliexpress.com/item/2251832786193672.html
-Cooling,1,DC-DC Buck Converter 60V 3A,2–34V,2.79,https://www.aliexpress.com/item/3256806811379418.html
-Output,1,600W DC-DC Buck Converter CC/CV,N/A,11.62,https://www.aliexpress.com/item/3256807619950116.html
-Output,1,DC Voltmeter Ammeter 0–100V 50A,Red Blue With Shunt,3.98,https://www.aliexpress.com/item/3256806046459838.html
-Output,1,4mm Banana Jack Panel Mount,Black,1.26,https://www.aliexpress.com/item/3256805937948099.html
-Output,1,4mm Banana Jack Panel Mount,Red,0.99,https://www.aliexpress.com/item/3256805937948099.html
-Output,1,Banana to Alligator Test Leads 90cm,N/A,3.04,https://www.aliexpress.com/item/3256806675649321.html
+Cooling,1,60x60x10mm PWM Fan (Delta EFB0612HHA),standard 4pin/6010/EFB0612HHA,3.96,https://www.aliexpress.com/item/2255800737378210.html
+Cooling,1,60x60x10mm PWM Fan (ADDA AD06012HX10AB00),Standard 4PIN PWM/black/NO RGB,5.98,https://www.aliexpress.com/item/2251832835370376.html
+Cooling,1,Aluminum Heatsink 8.8x8.8x5mm (50pcs lot),N/A,2.42,https://www.aliexpress.com/item/2251832663311102.html
+Sensors + Modules,1,SHT40 Temperature & Humidity Sensor Module,SHT40/China Mainland,2.14,https://www.aliexpress.com/item/3256809091535018.html
+Sensors + Modules,1,AHT20 + BMP280 Temp/Humidity/Pressure Sensor,Module,1.63,https://www.aliexpress.com/item/3256806795952050.html
+Sensors + Modules,1,ESP32 WROOM-32 Dev Board (USB-C),1PCS-CP2102 TYPE-C,0.99,https://www.aliexpress.com/item/3256805767190776.html
+Sensors + Modules,1,INA228 Voltage/Current/Power Monitor Module,228 welding,5.70,https://www.aliexpress.com/item/3256810323201401.html
+Sensors + Modules,1,3.5 inch TFT LCD Screen (ST7796 320x480),N/A,7.56,https://www.aliexpress.com/item/3256809650697406.html
+Sensors + Modules,1,Adjustable Buck Converter 60V 3A,2-34V,3.33,https://www.aliexpress.com/item/3256806811379418.html
+Sensors + Modules,1,Buck Converter 60V 3A (5V Output),5V,3.25,https://www.aliexpress.com/item/3256806811379418.html
+Sensors + Modules,1,Buck Converter 60V 3A (12V Output),12V,3.34,https://www.aliexpress.com/item/3256806811379418.html
+Sensors + Modules,1,600W CC/CV Buck Converter (12–75V Input),N/A,11.66,https://www.aliexpress.com/item/3256807619950116.html
+Power + Wires,1,Circuit Breaker Overload Protector Switch Fuse (5pcs),5pcs/25A,5.42,https://www.aliexpress.com/item/3256806057525580.html
+Power + Wires,1,IEC C13 AC Power Cable (USA Plug 1.2m),USA,3.50,https://www.aliexpress.com/item/3256807060355465.html
+Power + Wires,1,IEC C14 Panel Mount AC Socket,Type 4/China Mainland,1.34,https://www.aliexpress.com/item/3256808473935736.html
+Power + Wires,1,4mm Banana Jack Panel Mount (Red),Red/1PCS,1.34,https://www.aliexpress.com/item/3256805937948099.html
+Power + Wires,1,4mm Banana Jack Panel Mount (Black),black/1PCS,1.26,https://www.aliexpress.com/item/3256805937948099.html
+Power + Wires,1,Banana Plug to Alligator Clip Test Leads (20A 90cm),N/A,3.05,https://www.aliexpress.com/item/3256806675649321.html
+Power + Wires,1,KCD1 Rocker Switch SPST,KCD1 15X20mm/5PCS,2.40,https://www.aliexpress.com/item/3256808591861621.html
+Power + Wires,1,22 AWG Silicone Wire (4 colors 25ft each),22 gauge silicone wire each color 25ft,9.98,https://www.amazon.com/gp/product/B07HGT44XY/
+Power + Wires,1,48V 10A Switching Power Supply (480W),N/A,26.99,https://www.amazon.com/gp/product/B096VJMQFM/
