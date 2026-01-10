@@ -38,4 +38,4 @@ I started this project to make electronics experimentation easier, because getti
 - 1x of Banana Plug to Alligator Clip Test Leads (20A, 90cm), TYPE N/A, PRICE $3.05: https://www.aliexpress.com/item/3256806675649321.html
 - 1x of KCD1 Rocker Switch SPST, TYPE KCD1 15X20mm/5PCS, PRICE $2.40: https://www.aliexpress.com/item/3256808591861621.html
 - 1x of 22 AWG Silicone Wire (4 colors, 25ft each), TYPE 22 gauge silicone wire each color 25ft, PRICE $9.98: https://www.amazon.com/gp/product/B07HGT44XY/
-- 1x of 48V 10A Switching Power Supply (480W), TYPE n/a type, PRICE $26.99: https://www.amazon.com/gp/product/B096VJMQFM/
+- 1x of 48V 10A Switching Power Supply (480W), TYPE N/A, PRICE $26.99: https://www.amazon.com/gp/product/B096VJMQFM/
