@@ -16,7 +16,7 @@ I started this project to make electronics experimentation easier, because getti
 ### Cooling
 - 1x of 60x60x10mm PWM Fan (Delta EFB0612HHA), TYPE standard 4pin/6010/EFB0612HHA, PRICE $3.96: https://www.aliexpress.com/item/2255800737378210.html
 - 1x of 60x60x10mm PWM Fan (ADDA AD06012HX10AB00), TYPE Standard 4PIN PWM/black/NO RGB, PRICE $5.98: https://www.aliexpress.com/item/2251832835370376.html
-- 1x of 50pcs/lot Aluminum Heatsink 8.8*8.8*5mm Electronic Chip Radiator Cooler w/ Thermal for IC,3D Printer, TYPE N/A, PRICE $2.42: https://www.aliexpress.com/item/2251832663311102.html
+- 1x of 50pcs/lot Aluminum Heatsink 8.8\*8.8\*5mm Electronic Chip Radiator Cooler w/ Thermal for IC,3D Printer, TYPE N/A, PRICE $2.42: https://www.aliexpress.com/item/2251832663311102.html
 
 ### Sensors + Modules
 - 1x of SHT40 Temperature & Humidity Sensor Module, TYPE SHT40/China Mainland, PRICE $2.14: https://www.aliexpress.com/item/3256809091535018.html
