@@ -11,7 +11,7 @@ I started this project to make electronics experimentation easier, because getti
 
 ## Parts List
 > [!IMPORTANT]
-> **Find the CSV format in [BOM.csv](/blob/main/BOM.csv)**
+> **Find the CSV format in [BOM.csv](/BOM.csv)**
 
 ### Cooling
 - 1x of 60x60x10mm PWM Fan (Delta EFB0612HHA), TYPE standard 4pin/6010/EFB0612HHA, PRICE $3.96: https://www.aliexpress.com/item/2255800737378210.html
