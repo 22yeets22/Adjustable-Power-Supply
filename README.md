@@ -1,25 +1,31 @@
-# Adjustable Power Supply
-A cheap 500W adjustable power supply that supports 2.5-38V, 1-20A
+<div align="center"> 
+<h1>Adjustable Power Supply</h1>
+<h4>A cheap 500W adjustable power supply that supports 2.5-38V, 1-20A</h4>
+</div>
 
 **Motivation**: I started this project to make electronics experimentation easier, because getting precise voltage and current levels is a pain without a tool like this.
 
 ### Some beautiful pictures:
+
 <img width="600" alt="CAD" src="images/CADfront.png" />
 <img width="600" alt="CAD" src="images/CADback.png" />
 
-
 <img width="600" alt="Wiring Diagram" src="images/wiringdiagram.png" />
+<img width="600" alt="Wiring Diagram in KiCad" src="images/wiringdiagram2.png" />
 
 ## Parts List
+
 > [!IMPORTANT]
 > **Find the CSV format in [BOM.csv](/BOM.csv)**
 
 ### Cooling
+
 - 1x of 60x60x10mm PWM Fan (Delta EFB0612HHA), TYPE standard 4pin/6010/EFB0612HHA, PRICE $3.96: https://www.aliexpress.com/item/2255800737378210.html
 - 1x of 60x60x10mm PWM Fan (ADDA AD06012HX10AB00), TYPE Standard 4PIN PWM/black/NO RGB, PRICE $5.98: https://www.aliexpress.com/item/2251832835370376.html
 - 1x of 50pcs/lot Aluminum Heatsink 8.8\*8.8\*5mm Electronic Chip Radiator Cooler w/ Thermal for IC,3D Printer, TYPE N/A, PRICE $2.42: https://www.aliexpress.com/item/2251832663311102.html
 
 ### Sensors + Modules
+
 - 1x of SHT40 Temperature & Humidity Sensor Module, TYPE SHT40/China Mainland, PRICE $2.14: https://www.aliexpress.com/item/3256809091535018.html
 - 1x of AHT20 + BMP280 Temp/Humidity/Pressure Sensor, TYPE Module, PRICE $1.63: https://www.aliexpress.com/item/3256806795952050.html
 - 1x of ESP32 WROOM-32 Dev Board (USB-C), TYPE 1PCS-CP2102 TYPE-C, PRICE $0.99: https://www.aliexpress.com/item/3256805767190776.html
@@ -31,6 +37,7 @@ A cheap 500W adjustable power supply that supports 2.5-38V, 1-20A
 - 1x of 600W CC/CV Buck Converter (12–75V Input), TYPE N/A, PRICE $11.66: https://www.aliexpress.com/item/3256807619950116.html
 
 ### Power + Wires
+
 - 1x of 5Pcs Circuit Breaker Overload Protector Switch Fuse 3A 4A 5A 8A 10A 12A 15A 18A 20A 25A 30A Resettable 220V with Waterproof Cap, TYPE 5pcs/25A, PRICE $5.42: https://www.aliexpress.com/item/3256806057525580.html
 - 1x of IEC C13 AC Power Cable (USA Plug, 1.2m), TYPE USA, PRICE $3.50: https://www.aliexpress.com/item/3256807060355465.html
 - 1x of IEC C14 Panel Mount AC Socket, TYPE Type 4/China Mainland, PRICE $1.34: https://www.aliexpress.com/item/3256808473935736.html
