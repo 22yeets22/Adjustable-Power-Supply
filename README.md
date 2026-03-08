@@ -1,11 +1,11 @@
 <div align="center"> 
 <h1>Adjustable Power Supply</h1>
-<h4>A cheap 500W adjustable power supply that supports 2.5-38V, 1-20A</h4>
+<h4>A cheap 600W adjustable power supply that supports 2.5-38V, 1-20A</h4>
 </div>
 
 **Motivation**: I started this project to make electronics experimentation easier, because getting precise voltage and current levels is a pain without a tool like this.
 
-### Some beautiful pictures:
+### CAD
 
 <img width="600" alt="CAD" src="images/CADfront.png" />
 <img width="600" alt="CAD" src="images/CADback.png" />
