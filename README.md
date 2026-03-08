@@ -7,13 +7,14 @@
 
 ### CAD
 
-<img width="600" alt="CAD" src="images/CADfront.png" />
-<img width="600" alt="CAD" src="images/CADback.png" />
+[Go check out all the cad files!](CAD/)
+[The rest of the cad images are here](images/)
+<img width="600" alt="CAD" src="images/CADfull.png" />
 
 <img width="600" alt="Wiring Diagram" src="images/wiringdiagram.png" />
 <img width="600" alt="Wiring Diagram in KiCad" src="images/wiringdiagram2.png" />
 
-## Parts List
+## BOM
 
 > [!IMPORTANT]
 > **Find the CSV format in [BOM.csv](/BOM.csv)**
