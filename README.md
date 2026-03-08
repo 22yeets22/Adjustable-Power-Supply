@@ -3,9 +3,23 @@
 <h4>A cheap 600W adjustable power supply that supports 2.5-38V, 1-20A</h4>
 </div>
 
-**Motivation**: I started this project to make electronics experimentation easier, because getting precise voltage and current levels is a pain without a tool like this.
+## About
 
-### CAD
+This project is a high-power **bench power supply** capable of delivering **2.5–38V and up to 20A (≈600W)**.
+This project allows you to easily test out components that require specific voltages and currents. The power supply is housed in a custom 3D-printed enclosure and includes active cooling and safety components like a circuit breaker and proper power distribution.
+
+### How to Use
+
+1. First wire up the project like in the wiring diagrams:
+2. 3d print the cad case + lid, fit the parts in it
+3. Plug the AC power cable into the IEC input and turn on the rocker switch.
+4. Adjust the voltage and current, connect your device or circuit to the front banana jacks and monitor the output in real time.
+
+### Motivation
+
+This projects creates a **powerful, feature-rich lab power supply at a much lower cost** that allows you to control many precise devices at your will.
+
+## CAD
 
 [Go check out all the cad files!](CAD/)
 <br>
