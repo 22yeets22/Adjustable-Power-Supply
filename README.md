@@ -1,6 +1,5 @@
 <div align="center"> 
 <h1>Adjustable Power Supply</h1>
-<hr>
 <img width="300" alt="CAD" src="images/CADfront.png" />
 <h4>A cheap 600W adjustable power supply that supports 2.5-38V, 1-20A</h4>
 </div>
